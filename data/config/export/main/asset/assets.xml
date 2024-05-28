@@ -1,5 +1,5 @@
 <ModOps>
     <ModOp Type="replace" GUID='118718' Path="/Values/Object/Variations/Item/Filename">
-        <Filename>data/graphics/vehicles/GE_Duck/duck.cfg</Filename>
+        <Filename>data/graphics/vehicles/GE_Duck/big_colony01_01.cfg</Filename>
     </ModOp>
 </ModOps>
