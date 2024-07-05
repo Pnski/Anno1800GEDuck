@@ -1,6 +1,6 @@
 {
   "Version": "0.0.1",
-  "ModID": "GE_Duck",
+  "ModID": "Skins_Duck",
   "DeprecateIds": [],
   "LoadAfterIds": [],
   "IncompatibleIds": null,
@@ -19,17 +19,17 @@
     "Taiwanese": "Ship"
   },
   "ModName": {
-    "Chinese": "Great Eastern Duck",
-    "English": "Great Eastern Duck",
-    "French": "Great Eastern Duck",
-    "German": "Great Eastern Duck",
-    "Italian": "Great Eastern Duck",
-    "Japanese": "Great Eastern Duck",
-    "Korean": "Great Eastern Duck",
-    "Polish": "Great Eastern Duck",
-    "Russian": "Great Eastern Duck",
-    "Spanish": "Great Eastern Duck",
-    "Taiwanese": "Great Eastern Duck"
+    "Chinese": "Ship Skins Duck",
+    "English": "Ship Skins Duck",
+    "French": "Ship Skins Duck",
+    "German": "Ship Skins Duck",
+    "Italian": "Ship Skins Duck",
+    "Japanese": "Ship Skins Duck",
+    "Korean": "Ship Skins Duck",
+    "Polish": "Ship Skins Duck",
+    "Russian": "Ship Skins Duck",
+    "Spanish": "Ship Skins Duck",
+    "Taiwanese": "Ship Skins Duck"
   },
   "Description": {
     "English": null,
